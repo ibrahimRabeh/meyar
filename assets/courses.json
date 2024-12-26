@@ -1,0 +1,1064 @@
+{
+        "courses": [
+            {
+                    "id": "tech001",
+                    "title": "Advanced Cloud Computing",
+                    "category": "Technology",
+                    "subCategory": "Cloud",
+                    "description": "Master advanced concepts in cloud computing, including serverless architecture and multi-cloud strategies",
+                    "detailedDescription": "This comprehensive course covers serverless architecture, multi-cloud strategies, and advanced cloud computing concepts. Gain hands-on experience with cloud platforms and optimize resources for efficiency and scalability.",
+                    "duration": "25 hours",
+                    "level": "Advanced",
+                    "prerequisites": ["Basic Cloud Computing", "Networking Basics"],
+                    "skills": ["Cloud Architecture", "Serverless Computing", "Multi-Cloud Deployment"],
+                    "image": "assets/images/Cloud.jpeg",
+                    "rating": 4.8,
+                    "enrollmentCount": 1100,
+                    "provider": {
+                      "name": "TechMaster Academy",
+                      "rating": 4.9,
+                      "coursesOffered": 150,
+                      "website": "https://techmasteracademy.com"
+                    },
+                    "location": {
+                      "type": "Hybrid",
+                      "online": true,
+                      "physical": "Main Campus - Building A, Room 302",
+                      "address": "123 Tech Street, Silicon Valley, CA"
+                    },
+                    "schedule": {
+                      "startDate": "2024-02-01",
+                      "endDate": "2024-03-15",
+                      "sessions": [
+                        {
+                          "day": "Tuesday",
+                          "time": "18:00-20:00",
+                          "type": "Lecture"
+                        },
+                        {
+                          "day": "Thursday",
+                          "time": "18:00-20:00",
+                          "type": "Practice"
+                        }
+                      ]
+                    },
+                    "pricing": {
+                      "amount": 699.99,
+                      "currency": "USD",
+                      "installmentAvailable": true,
+                      "installmentTerms": "3 months"
+                    },
+                    "certification": {
+                      "provided": true,
+                      "type": "Professional Certificate",
+                      "accredited": true,
+                      "validityPeriod": "3 years"
+                    },
+                    "courseContent": [
+                      {
+                        "module": "Module 1: Serverless Architecture",
+                        "duration": "8 hours",
+                        "topics": [
+                          "Introduction to Serverless",
+                          "Serverless Frameworks",
+                          "Use Cases"
+                        ]
+                      },
+                      {
+                        "module": "Module 2: Multi-Cloud Strategies",
+                        "duration": "8 hours",
+                        "topics": [
+                          "Cloud Interoperability",
+                          "Vendor Solutions",
+                          "Cost Optimization"
+                        ]
+                      }
+                    ],
+                    "tags": ["technology", "cloud", "serverless", "architecture"],
+                    "languages": ["English"],
+                    "materials": {
+                      "provided": true,
+                      "items": [
+                        "Digital textbook",
+                        "Case studies",
+                        "Practice exercises",
+                        "Video lectures"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "tech002",
+                    "title": "Cybersecurity Fundamentals",
+                    "category": "Technology",
+                    "subCategory": "Security",
+                    "description": "Learn the basics of cybersecurity, including threat analysis and protection methods",
+                    "detailedDescription": "This beginner-friendly course introduces foundational cybersecurity concepts. Topics include threat analysis, risk management, and essential tools for protecting data in digital environments.",
+                    "duration": "20 hours",
+                    "level": "Beginner",
+                    "prerequisites": [],
+                    "skills": ["Threat Analysis", "Network Security", "Data Protection"],
+                    "image": "assets/images/Cyper.jpeg",
+                    "rating": 4.7,
+                    "enrollmentCount": 1500,
+                    "provider": {
+                      "name": "TechMaster Academy",
+                      "rating": 4.9,
+                      "coursesOffered": 150,
+                      "website": "https://techmasteracademy.com"
+                    },
+                    "location": {
+                      "type": "Online",
+                      "online": true,
+                      "physical": null,
+                      "address": null
+                    },
+                    "schedule": {
+                      "startDate": "2024-01-15",
+                      "endDate": "2024-02-20",
+                      "sessions": [
+                        {
+                          "day": "Wednesday",
+                          "time": "17:00-19:00",
+                          "type": "Lecture"
+                        }
+                      ]
+                    },
+                    "pricing": {
+                      "amount": 499.99,
+                      "currency": "USD",
+                      "installmentAvailable": false,
+                      "installmentTerms": null
+                    },
+                    "certification": {
+                      "provided": true,
+                      "type": "Completion Certificate",
+                      "accredited": false,
+                      "validityPeriod": null
+                    },
+                    "courseContent": [
+                      {
+                        "module": "Module 1: Cybersecurity Essentials",
+                        "duration": "10 hours",
+                        "topics": [
+                          "Types of Threats",
+                          "Risk Management",
+                          "Security Protocols"
+                        ]
+                      }
+                    ],
+                    "tags": ["technology", "security", "cybersecurity", "protection"],
+                    "languages": ["English", "Spanish"],
+                    "materials": {
+                      "provided": true,
+                      "items": [
+                        "Presentation slides",
+                        "Case studies",
+                        "Practice exercises"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "tech003",
+                    "title": "Full-Stack Web Development",
+                    "category": "Technology",
+                    "subCategory": "Programming",
+                    "description": "Develop web applications using front-end and back-end technologies",
+                    "detailedDescription": "This in-depth course takes you through the journey of building dynamic web applications. Learn how to use front-end frameworks like React and back-end technologies such as Node.js to create robust and scalable web solutions.",
+                    "duration": "30 hours",
+                    "level": "Intermediate",
+                    "prerequisites": ["Introduction to Programming", "Basic HTML & CSS"],
+                    "skills": ["React", "Node.js", "Database Management", "APIs"],
+                    "image": "assets/images/devops.png",
+                    "rating": 4.9,
+                    "enrollmentCount": 2000,
+                    "provider": {
+                      "name": "CodeCraft Academy",
+                      "rating": 4.8,
+                      "coursesOffered": 120,
+                      "website": "https://codecraftacademy.com"
+                    },
+                    "location": {
+                      "type": "Hybrid",
+                      "online": true,
+                      "physical": "Tech Park - Room 404",
+                      "address": "456 Developer Lane, Silicon Valley, CA"
+                    },
+                    "schedule": {
+                      "startDate": "2024-02-10",
+                      "endDate": "2024-04-05",
+                      "sessions": [
+                        {
+                          "day": "Monday",
+                          "time": "18:00-20:00",
+                          "type": "Lecture"
+                        },
+                        {
+                          "day": "Thursday",
+                          "time": "18:00-20:00",
+                          "type": "Practice"
+                        }
+                      ]
+                    },
+                    "pricing": {
+                      "amount": 799.99,
+                      "currency": "USD",
+                      "installmentAvailable": true,
+                      "installmentTerms": "4 months"
+                    },
+                    "certification": {
+                      "provided": true,
+                      "type": "Professional Certificate",
+                      "accredited": true,
+                      "validityPeriod": "5 years"
+                    },
+                    "courseContent": [
+                      {
+                        "module": "Module 1: Front-End Development",
+                        "duration": "15 hours",
+                        "topics": [
+                          "React Basics",
+                          "State Management",
+                          "UI Components"
+                        ]
+                      },
+                      {
+                        "module": "Module 2: Back-End Development",
+                        "duration": "15 hours",
+                        "topics": [
+                          "Node.js",
+                          "Database Integration",
+                          "API Development"
+                        ]
+                      }
+                    ],
+                    "tags": ["technology", "programming", "web development", "full-stack"],
+                    "languages": ["English"],
+                    "materials": {
+                      "provided": true,
+                      "items": [
+                        "Source code samples",
+                        "Video tutorials",
+                        "Assignments"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "tech004",
+                    "title": "Data Science and Machine Learning",
+                    "category": "Technology",
+                    "subCategory": "AI and Data",
+                    "description": "Learn to analyze data and build machine learning models using Python",
+                    "detailedDescription": "Dive into data science and machine learning with this hands-on course. Explore data visualization, statistical analysis, and machine learning algorithms. Gain practical experience using Python libraries such as Pandas, NumPy, and Scikit-learn.",
+                    "duration": "40 hours",
+                    "level": "Advanced",
+                    "prerequisites": ["Basic Statistics", "Python Programming"],
+                    "skills": ["Data Analysis", "Machine Learning", "Data Visualization"],
+                    "image": "assets/images/DEPython.jpeg",
+                    "rating": 4.8,
+                    "enrollmentCount": 1700,
+                    "provider": {
+                      "name": "DataGenius Academy",
+                      "rating": 4.7,
+                      "coursesOffered": 90,
+                      "website": "https://datageniusacademy.com"
+                    },
+                    "location": {
+                      "type": "Online",
+                      "online": true,
+                      "physical": null,
+                      "address": null
+                    },
+                    "schedule": {
+                      "startDate": "2024-03-01",
+                      "endDate": "2024-05-01",
+                      "sessions": [
+                        {
+                          "day": "Saturday",
+                          "time": "10:00-14:00",
+                          "type": "Lecture & Practice"
+                        }
+                      ]
+                    },
+                    "pricing": {
+                      "amount": 899.99,
+                      "currency": "USD",
+                      "installmentAvailable": true,
+                      "installmentTerms": "5 months"
+                    },
+                    "certification": {
+                      "provided": true,
+                      "type": "Professional Certificate",
+                      "accredited": true,
+                      "validityPeriod": "3 years"
+                    },
+                    "courseContent": [
+                      {
+                        "module": "Module 1: Data Analysis and Visualization",
+                        "duration": "20 hours",
+                        "topics": [
+                          "Data Wrangling",
+                          "Visualization Techniques",
+                          "Statistical Analysis"
+                        ]
+                      },
+                      {
+                        "module": "Module 2: Machine Learning Basics",
+                        "duration": "20 hours",
+                        "topics": [
+                          "Supervised Learning",
+                          "Unsupervised Learning",
+                          "Model Evaluation"
+                        ]
+                      }
+                    ],
+                    "tags": ["technology", "data science", "machine learning", "python"],
+                    "languages": ["English"],
+                    "materials": {
+                      "provided": true,
+                      "items": [
+                        "Jupyter notebooks",
+                        "Video tutorials",
+                        "Datasets"
+                      ]
+                    }
+                  },
+       
+          {
+            "id": "tech005",
+            "title": "Artificial Intelligence for Beginners",
+            "category": "Technology",
+            "subCategory": "AI",
+            "description": "An introductory course on artificial intelligence, focusing on key concepts and applications.",
+            "detailedDescription": "This beginner-friendly course provides a comprehensive introduction to artificial intelligence. Topics include machine learning basics, natural language processing, and computer vision. Learn how AI is applied in real-world scenarios.",
+            "duration": "30 hours",
+            "level": "Beginner",
+            "prerequisites": ["Basic Programming Knowledge"],
+            "skills": ["AI Basics", "Machine Learning", "NLP", "Computer Vision"],
+            "image": "assets/images/AI.jpeg",
+            "rating": 4.9,
+            "enrollmentCount": 2000,
+            "provider": {
+              "name": "FutureTech Institute",
+              "rating": 4.8,
+              "coursesOffered": 100,
+              "website": "https://futuretechinstitute.com"
+            },
+            "location": {
+              "type": "Online",
+              "online": true,
+              "physical": null,
+              "address": null
+            },
+            "schedule": {
+              "startDate": "2024-03-01",
+              "endDate": "2024-04-15",
+              "sessions": [
+                {
+                  "day": "Monday",
+                  "time": "19:00-21:00",
+                  "type": "Lecture"
+                },
+                {
+                  "day": "Wednesday",
+                  "time": "19:00-21:00",
+                  "type": "Practice"
+                }
+              ]
+            },
+            "pricing": {
+              "amount": 599.99,
+              "currency": "USD",
+              "installmentAvailable": true,
+              "installmentTerms": "4 months"
+            },
+            "certification": {
+              "provided": true,
+              "type": "Completion Certificate",
+              "accredited": true,
+              "validityPeriod": null
+            },
+            "courseContent": [
+              {
+                "module": "Module 1: Introduction to AI",
+                "duration": "10 hours",
+                "topics": ["AI History", "AI Applications", "Ethics in AI"]
+              },
+              {
+                "module": "Module 2: Machine Learning Basics",
+                "duration": "10 hours",
+                "topics": ["Supervised Learning", "Unsupervised Learning", "Regression and Classification"]
+              }
+            ],
+            "tags": ["technology", "AI", "machine learning", "NLP"],
+            "languages": ["English"],
+            "materials": {
+              "provided": true,
+              "items": [
+                "Video tutorials",
+                "Interactive quizzes",
+                "Hands-on projects"
+              ]
+            }
+          },
+          {
+            "id": "soft001",
+            "title": "Effective Communication Skills",
+            "category": "Soft Skills",
+            "subCategory": "Communication",
+            "description": "Enhance your interpersonal and professional communication abilities.",
+            "detailedDescription": "This course focuses on improving verbal and non-verbal communication. Topics include conflict resolution, active listening, and business communication strategies. Ideal for professionals looking to advance in their careers.",
+            "duration": "15 hours",
+            "level": "Beginner",
+            "prerequisites": [],
+            "skills": ["Active Listening", "Conflict Resolution", "Professional Communication"],
+            "image": "assets/images/comskills.jpeg",
+            "rating": 4.5,
+            "enrollmentCount": 2200,
+            "provider": {
+              "name": "SoftSkill Academy",
+              "rating": 4.6,
+              "coursesOffered": 50,
+              "website": "https://softskillacademy.com"
+            },
+            "location": {
+              "type": "Online",
+              "online": true,
+              "physical": null,
+              "address": null
+            },
+            "schedule": {
+              "startDate": "2024-01-10",
+              "endDate": "2024-02-05",
+              "sessions": [
+                {
+                  "day": "Wednesday",
+                  "time": "18:00-20:00",
+                  "type": "Interactive Workshop"
+                },
+                {
+                  "day": "Friday",
+                  "time": "16:00-18:00",
+                  "type": "Lecture"
+                }
+              ]
+            },
+            "pricing": {
+              "amount": 249.99,
+              "currency": "USD",
+              "installmentAvailable": false,
+              "installmentTerms": null
+            },
+            "certification": {
+              "provided": true,
+              "type": "Completion Certificate",
+              "accredited": false,
+              "validityPeriod": null
+            },
+            "courseContent": [
+              {
+                "module": "Module 1: Basics of Communication",
+                "duration": "8 hours",
+                "topics": ["Principles of Communication", "Active Listening", "Non-Verbal Cues"]
+              },
+              {
+                "module": "Module 2: Business Communication",
+                "duration": "7 hours",
+                "topics": ["Email Writing", "Presentation Skills", "Conflict Management"]
+              }
+            ],
+            "tags": ["soft skills", "communication", "professional development"],
+            "languages": ["English", "French"],
+            "materials": {
+              "provided": true,
+              "items": ["Presentation slides", "Case studies", "Practice exercises"]
+            }
+          },
+          {
+            "id": "soft002",
+            "title": "Leadership and Team Management",
+            "category": "Soft Skills",
+            "subCategory": "Leadership",
+            "description": "Develop the skills to lead teams effectively and drive organizational success.",
+            "detailedDescription": "This advanced course covers essential leadership skills such as strategic planning, motivation, and performance management. Perfect for current and aspiring leaders seeking to refine their managerial abilities.",
+            "duration": "20 hours",
+            "level": "Advanced",
+            "prerequisites": ["Effective Communication Skills"],
+            "skills": ["Strategic Planning", "Motivation", "Performance Management"],
+            "image": "assets/images/leader.jpeg",
+            "rating": 4.8,
+            "enrollmentCount": 1800,
+            "provider": {
+              "name": "Leadership Academy",
+              "rating": 4.9,
+              "coursesOffered": 70,
+              "website": "https://leadershipacademy.com"
+            },
+            "location": {
+              "type": "Hybrid",
+              "online": true,
+              "physical": "Corporate Hub - Room 205",
+              "address": "101 Leadership Lane, Business City, NY"
+            },
+            "schedule": {
+              "startDate": "2024-02-15",
+              "endDate": "2024-03-25",
+              "sessions": [
+                {
+                  "day": "Tuesday",
+                  "time": "17:00-19:00",
+                  "type": "Lecture"
+                },
+                {
+                  "day": "Thursday",
+                  "time": "17:00-19:00",
+                  "type": "Group Activity"
+                }
+              ]
+            },
+            "pricing": {
+              "amount": 399.99,
+              "currency": "USD",
+              "installmentAvailable": true,
+              "installmentTerms": "3 months"
+            },
+            "certification": {
+              "provided": true,
+              "type": "Professional Certificate",
+              "accredited": true,
+              "validityPeriod": "5 years"
+            },
+            "courseContent": [
+              {
+                "module": "Module 1: Fundamentals of Leadership",
+                "duration": "10 hours",
+                "topics": ["Leadership Styles", "Emotional Intelligence", "Decision Making"]
+              },
+              {
+                "module": "Module 2: Advanced Team Management",
+                "duration": "10 hours",
+                "topics": ["Motivational Strategies", "Conflict Resolution", "Performance Evaluation"]
+              }
+            ],
+            "tags": ["soft skills", "leadership", "team management"],
+            "languages": ["English", "Spanish"],
+            "materials": {
+              "provided": true,
+              "items": ["Case studies", "Interactive tools", "Reading material"]
+            }
+          },
+      
+      {
+        "id": "soft003",
+        "title": "Time Management Mastery",
+        "category": "Soft Skills",
+        "subCategory": "Productivity",
+        "description": "Learn how to effectively manage your time to achieve personal and professional goals.",
+        "detailedDescription": "This course teaches essential time management techniques such as prioritization, scheduling, and overcoming procrastination. Suitable for professionals and students aiming to improve productivity.",
+        "duration": "12 hours",
+        "level": "Intermediate",
+        "prerequisites": [],
+        "skills": ["Prioritization", "Goal Setting", "Overcoming Procrastination"],
+        "image": "assets/images/timeman.webp",
+        "rating": 4.7,
+        "enrollmentCount": 2500,
+        "provider": {
+          "name": "Productivity Academy",
+          "rating": 4.6,
+          "coursesOffered": 30,
+          "website": "https://productivityacademy.com"
+        },
+        "location": {
+          "type": "Online",
+          "online": true,
+          "physical": null,
+          "address": null
+        },
+        "schedule": {
+          "startDate": "2024-02-01",
+          "endDate": "2024-02-28",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "18:00-19:30",
+              "type": "Lecture"
+            },
+            {
+              "day": "Wednesday",
+              "time": "18:00-19:30",
+              "type": "Interactive Workshop"
+            }
+          ]
+        },
+        "pricing": {
+          "amount": 199.99,
+          "currency": "USD",
+          "installmentAvailable": false,
+          "installmentTerms": null
+        },
+        "certification": {
+          "provided": true,
+          "type": "Completion Certificate",
+          "accredited": false,
+          "validityPeriod": null
+        },
+        "courseContent": [
+          {
+            "module": "Module 1: Time Management Basics",
+            "duration": "6 hours",
+            "topics": ["Principles of Time Management", "Identifying Time Wasters", "Creating Effective Schedules"]
+          },
+          {
+            "module": "Module 2: Advanced Productivity Techniques",
+            "duration": "6 hours",
+            "topics": ["Setting SMART Goals", "Delegation", "Work-Life Balance"]
+          }
+        ],
+        "tags": ["soft skills", "time management", "productivity"],
+        "languages": ["English"],
+        "materials": {
+          "provided": true,
+          "items": ["Video lessons", "Downloadable templates", "Practice exercises"]
+        }
+      },
+      {
+        "id": "soft004",
+        "title": "Critical Thinking and Problem Solving",
+        "category": "Soft Skills",
+        "subCategory": "Cognitive Skills",
+        "description": "Develop your critical thinking and problem-solving abilities for real-world challenges.",
+        "detailedDescription": "This course emphasizes analytical thinking, creative solutions, and decision-making processes. It includes practical exercises and case studies to help you approach problems systematically.",
+        "duration": "18 hours",
+        "level": "Advanced",
+        "prerequisites": ["Basic Analytical Skills"],
+        "skills": ["Critical Thinking", "Problem Analysis", "Decision Making"],
+        "image": "assets/images/Critical.jpeg",
+        "rating": 4.9,
+        "enrollmentCount": 1500,
+        "provider": {
+          "name": "ThinkTank Institute",
+          "rating": 4.8,
+          "coursesOffered": 60,
+          "website": "https://thinktankinstitute.com"
+        },
+        "location": {
+          "type": "Hybrid",
+          "online": true,
+          "physical": "Learning Hub - Room 302",
+          "address": "456 Knowledge Avenue, Edu City, CA"
+        },
+        "schedule": {
+          "startDate": "2024-03-01",
+          "endDate": "2024-04-10",
+          "sessions": [
+            {
+              "day": "Tuesday",
+              "time": "17:00-19:00",
+              "type": "Lecture"
+            },
+            {
+              "day": "Thursday",
+              "time": "17:00-19:00",
+              "type": "Case Study Workshop"
+            }
+          ]
+        },
+        "pricing": {
+          "amount": 349.99,
+          "currency": "USD",
+          "installmentAvailable": true,
+          "installmentTerms": "2 months"
+        },
+        "certification": {
+          "provided": true,
+          "type": "Professional Certificate",
+          "accredited": true,
+          "validityPeriod": "3 years"
+        },
+        "courseContent": [
+          {
+            "module": "Module 1: Foundations of Critical Thinking",
+            "duration": "9 hours",
+            "topics": ["Logical Reasoning", "Identifying Biases", "Evaluating Evidence"]
+          },
+          {
+            "module": "Module 2: Problem-Solving Strategies",
+            "duration": "9 hours",
+            "topics": ["Root Cause Analysis", "Creative Problem Solving", "Decision Trees"]
+          }
+        ],
+        "tags": ["soft skills", "critical thinking", "problem solving"],
+        "languages": ["English"],
+        "materials": {
+          "provided": true,
+          "items": ["Case studies", "Interactive exercises", "Reading materials"]
+        }
+      },
+      {
+        "id": "soft005",
+        "title": "Effective Communication Skills",
+        "category": "Soft Skills",
+        "subCategory": "Communication",
+        "description": "Enhance your communication skills for personal and professional success.",
+        "detailedDescription": "This course provides a deep dive into communication techniques, including verbal, non-verbal, and written skills. Gain practical experience through role-playing and interactive exercises to improve your ability to convey ideas clearly and effectively.",
+        "duration": "15 hours",
+        "level": "Intermediate",
+        "prerequisites": [],
+        "skills": ["Active Listening", "Persuasion", "Effective Presentation"],
+        "image": "assets/images/effCourse.png",
+        "rating": 4.8,
+        "enrollmentCount": 3200,
+        "provider": {
+          "name": "Communication Academy",
+          "rating": 4.7,
+          "coursesOffered": 40,
+          "website": "https://communicationacademy.com"
+        },
+        "location": {
+          "type": "Online",
+          "online": true,
+          "physical": null,
+          "address": null
+        },
+        "schedule": {
+          "startDate": "2024-03-15",
+          "endDate": "2024-04-05",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "18:00-19:30",
+              "type": "Lecture"
+            },
+            {
+              "day": "Thursday",
+              "time": "18:00-19:30",
+              "type": "Practice"
+            }
+          ]
+        },
+        "pricing": {
+          "amount": 249.99,
+          "currency": "USD",
+          "installmentAvailable": false,
+          "installmentTerms": null
+        },
+        "certification": {
+          "provided": true,
+          "type": "Completion Certificate",
+          "accredited": false,
+          "validityPeriod": null
+        },
+        "courseContent": [
+          {
+            "module": "Module 1: Communication Foundations",
+            "duration": "7 hours",
+            "topics": ["Principles of Communication", "Barriers to Effective Communication", "Building Rapport"]
+          },
+          {
+            "module": "Module 2: Advanced Communication Techniques",
+            "duration": "8 hours",
+            "topics": ["Public Speaking", "Negotiation Skills", "Conflict Resolution"]
+          }
+        ],
+        "tags": ["soft skills", "communication", "presentation"],
+        "languages": ["English"],
+        "materials": {
+          "provided": true,
+          "items": ["Video tutorials", "Interactive scenarios", "Practice exercises"]
+        }
+      },
+    {
+      "id": "mgmt001",
+      "title": "Strategic Business Management",
+      "category": "Management",
+      "subCategory": "Strategy",
+      "description": "Learn the key principles of strategic business management and decision-making.",
+      "detailedDescription": "This course delves into strategic planning, competitive analysis, and resource management to help participants achieve organizational goals. Suitable for managers and business leaders.",
+      "duration": "25 hours",
+      "level": "Advanced",
+      "prerequisites": ["Basic Business Knowledge"],
+      "skills": ["Strategic Planning", "Decision Making", "Resource Allocation"],
+      "image": "assets/images/strman.jpeg",
+      "rating": 4.9,
+      "enrollmentCount": 1200,
+      "provider": {
+        "name": "Business Excellence Academy",
+        "rating": 4.8,
+        "coursesOffered": 50,
+        "website": "https://businessacademy.com"
+      },
+      "location": {
+        "type": "Hybrid",
+        "online": true,
+        "physical": "Executive Learning Center - Room 101",
+        "address": "789 Business Road, Enterprise City, TX"
+      },
+      "schedule": {
+        "startDate": "2024-05-01",
+        "endDate": "2024-06-15",
+        "sessions": [
+          {
+            "day": "Tuesday",
+            "time": "18:00-20:00",
+            "type": "Lecture"
+          },
+          {
+            "day": "Thursday",
+            "time": "18:00-20:00",
+            "type": "Case Study Workshop"
+          }
+        ]
+      },
+      "pricing": {
+        "amount": 599.99,
+        "currency": "USD",
+        "installmentAvailable": true,
+        "installmentTerms": "3 months"
+      },
+      "certification": {
+        "provided": true,
+        "type": "Professional Certificate",
+        "accredited": true,
+        "validityPeriod": "5 years"
+      },
+      "courseContent": [
+        {
+          "module": "Module 1: Strategic Planning Fundamentals",
+          "duration": "12 hours",
+          "topics": ["Understanding Business Strategy", "SWOT Analysis", "Setting Objectives"]
+        },
+        {
+          "module": "Module 2: Advanced Strategic Tools",
+          "duration": "13 hours",
+          "topics": ["Competitive Analysis", "Resource Optimization", "Risk Management"]
+        }
+      ],
+      "tags": ["management", "strategy", "business"],
+      "languages": ["English"],
+      "materials": {
+        "provided": true,
+        "items": ["Case studies", "Interactive workshops", "Reading materials"]
+      }
+    },
+    {
+      "id": "mgmt002",
+      "title": "Project Management Essentials",
+      "category": "Management",
+      "subCategory": "Project Management",
+      "description": "Master the fundamentals of project management to deliver successful projects.",
+      "detailedDescription": "This course covers project lifecycle, risk management, and resource planning. Learn practical tools and techniques to ensure project success from start to finish.",
+      "duration": "20 hours",
+      "level": "Intermediate",
+      "prerequisites": [],
+      "skills": ["Project Planning", "Risk Management", "Resource Management"],
+      "image": "assets/images/promanfun.jpeg",
+      "rating": 4.8,
+      "enrollmentCount": 2000,
+      "provider": {
+        "name": "Management Pro Institute",
+        "rating": 4.7,
+        "coursesOffered": 35,
+        "website": "https://managementpro.com"
+      },
+      "location": {
+        "type": "Online",
+        "online": true,
+        "physical": null,
+        "address": null
+      },
+      "schedule": {
+        "startDate": "2024-06-01",
+        "endDate": "2024-06-30",
+        "sessions": [
+          {
+            "day": "Monday",
+            "time": "18:00-20:00",
+            "type": "Lecture"
+          },
+          {
+            "day": "Wednesday",
+            "time": "18:00-20:00",
+            "type": "Workshop"
+          }
+        ]
+      },
+      "pricing": {
+        "amount": 449.99,
+        "currency": "USD",
+        "installmentAvailable": false,
+        "installmentTerms": null
+      },
+      "certification": {
+        "provided": true,
+        "type": "Completion Certificate",
+        "accredited": false,
+        "validityPeriod": null
+      },
+      "courseContent": [
+        {
+          "module": "Module 1: Project Management Basics",
+          "duration": "10 hours",
+          "topics": ["Project Lifecycle", "Defining Scope", "Stakeholder Management"]
+        },
+        {
+          "module": "Module 2: Practical Project Tools",
+          "duration": "10 hours",
+          "topics": ["Gantt Charts", "Risk Assessment", "Resource Allocation"]
+        }
+      ],
+      "tags": ["management", "project management", "planning"],
+      "languages": ["English"],
+      "materials": {
+        "provided": true,
+        "items": ["Project templates", "Interactive sessions", "Practical tools"]
+      }
+    },
+
+      {
+        "id": "mgmt003",
+        "title": "Strategic Management Essentials",
+        "category": "Management",
+        "subCategory": "Strategy",
+        "description": "Learn the fundamentals of strategic management and planning.",
+        "detailedDescription": "This course covers the key principles of strategic management, including SWOT analysis, competitive analysis, and strategic decision-making. Gain insights into building and executing effective strategies through case studies and simulations.",
+        "duration": "25 hours",
+        "level": "Intermediate",
+        "prerequisites": ["Basic Business Knowledge"],
+        "skills": ["Strategic Planning", "Analytical Thinking", "Decision-Making"],
+        "image": "assets/images/stress.jpeg",
+        "rating": 4.7,
+        "enrollmentCount": 2200,
+        "provider": {
+          "name": "Strategy Institute",
+          "rating": 4.6,
+          "coursesOffered": 35,
+          "website": "https://strategyinstitute.com"
+        },
+        "location": {
+          "type": "Online",
+          "online": true,
+          "physical": null,
+          "address": null
+        },
+        "schedule": {
+          "startDate": "2024-05-15",
+          "endDate": "2024-06-15",
+          "sessions": [
+            {
+              "day": "Tuesday",
+              "time": "17:00-19:00",
+              "type": "Lecture"
+            },
+            {
+              "day": "Friday",
+              "time": "16:00-18:00",
+              "type": "Workshop"
+            }
+          ]
+        },
+        "pricing": {
+          "amount": 299.99,
+          "currency": "USD",
+          "installmentAvailable": true,
+          "installmentTerms": "2 months"
+        },
+        "certification": {
+          "provided": true,
+          "type": "Completion Certificate",
+          "accredited": true,
+          "validityPeriod": "3 years"
+        },
+        "courseContent": [
+          {
+            "module": "Module 1: Strategic Management Foundations",
+            "duration": "12 hours",
+            "topics": ["Introduction to Strategy", "SWOT Analysis", "Competitive Advantage"]
+          },
+          {
+            "module": "Module 2: Advanced Strategic Tools",
+            "duration": "13 hours",
+            "topics": ["Scenario Planning", "Balanced Scorecard", "Change Management"]
+          }
+        ],
+        "tags": ["management", "strategy", "business"],
+        "languages": ["English"],
+        "materials": {
+          "provided": true,
+          "items": ["Video lectures", "Case studies", "Interactive exercises"]
+        }
+      },
+      {
+        "id": "mgmt004",
+        "title": "Project Management Fundamentals",
+        "category": "Management",
+        "subCategory": "Project Management",
+        "description": "Develop essential project management skills to lead successful projects.",
+        "detailedDescription": "This course introduces the core concepts of project management, including planning, execution, and monitoring. Learn to use industry-standard tools and techniques to manage projects efficiently and effectively.",
+        "duration": "30 hours",
+        "level": "Beginner",
+        "prerequisites": [],
+        "skills": ["Project Planning", "Risk Management", "Team Coordination"],
+        "image": "assets/images/promanfun.jpeg",
+        "rating": 4.8,
+        "enrollmentCount": 4000,
+        "provider": {
+          "name": "PM Academy",
+          "rating": 4.7,
+          "coursesOffered": 45,
+          "website": "https://pmacademy.com"
+        },
+        "location": {
+          "type": "Hybrid",
+          "online": true,
+          "physical": "Downtown Training Center - Room 101",
+          "address": "456 Innovation Drive, Tech City, CA"
+        },
+        "schedule": {
+          "startDate": "2024-06-01",
+          "endDate": "2024-07-01",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "18:00-20:00",
+              "type": "Lecture"
+            },
+            {
+              "day": "Thursday",
+              "time": "18:00-20:00",
+              "type": "Workshop"
+            }
+          ]
+        },
+        "pricing": {
+          "amount": 399.99,
+          "currency": "USD",
+          "installmentAvailable": true,
+          "installmentTerms": "4 months"
+        },
+        "certification": {
+          "provided": true,
+          "type": "Professional Certificate",
+          "accredited": true,
+          "validityPeriod": "5 years"
+        },
+        "courseContent": [
+          {
+            "module": "Module 1: Introduction to Project Management",
+            "duration": "15 hours",
+            "topics": ["Project Lifecycle", "Stakeholder Management", "Project Charter"]
+          },
+          {
+            "module": "Module 2: Tools and Techniques",
+            "duration": "15 hours",
+            "topics": ["Gantt Charts", "Risk Assessment", "Agile Methodologies"]
+          }
+        ],
+        "tags": ["management", "project", "planning"],
+        "languages": ["English"],
+        "materials": {
+          "provided": true,
+          "items": ["Templates", "Toolkits", "Practice scenarios"]
+        }
+    }
+    
+    ]
+}
