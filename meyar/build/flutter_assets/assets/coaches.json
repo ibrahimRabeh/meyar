@@ -1,0 +1,83 @@
+{
+    "coaches": [
+      {
+        "id": "coach001",
+        "name": "Dr. Sarah Chen",
+        "title": "Tech Leadership Coach",
+        "category": "Technology",
+        "subCategory": "Leadership",
+        "description": "Empowering tech leaders to build and scale high-performing teams",
+        "detailedDescription": "Former CTO turned leadership coach with 15+ years of experience in scaling engineering teams. Expert in helping technical leaders develop their management skills and build effective teams.",
+        "image": "assets/images/coach1.jpg",
+        "rating": 4.9,
+        "clientCount": 234,
+        "yearsExperience": 15,
+        "expertise": [
+          "Engineering Management",
+          "Team Scaling",
+          "Technical Leadership",
+          "Career Development"
+        ],
+        "languages": ["English", "Mandarin"],
+        "credentials": [
+          "Ph.D. in Computer Science, Stanford University",
+          "Certified Executive Coach (ICF)",
+          "Former CTO at TechGrowth Inc."
+        ],
+        "location": {
+          "type": "Hybrid",
+          "online": true,
+          "physical": "Silicon Valley Office",
+          "address": "123 Tech Street, San Francisco, CA"
+        },
+        "availability": {
+          "timeZone": "PST",
+          "weekdays": ["Monday", "Wednesday", "Thursday"],
+          "timeSlots": ["09:00-10:00", "10:00-11:00", "14:00-15:00", "15:00-16:00"]
+        },
+        "sessionTypes": [
+          {
+            "type": "1:1 Coaching",
+            "duration": "60 min",
+            "price": 199.99,
+            "currency": "USD",
+            "description": "Personal coaching session focused on your specific challenges and goals"
+          },
+          {
+            "type": "Strategy Session",
+            "duration": "90 min",
+            "price": 299.99,
+            "currency": "USD",
+            "description": "Deep dive into specific challenges with actionable strategy planning"
+          }
+        ],
+        "packages": [
+          {
+            "name": "Leadership Transition",
+            "duration": "3 months",
+            "sessionsPerMonth": 4,
+            "price": 1799.99,
+            "currency": "USD",
+            "description": "Comprehensive support for new engineering leaders",
+            "includes": [
+              "Weekly 1:1 sessions",
+              "Email support",
+              "Leadership assessment",
+              "Custom action plan",
+              "Progress tracking"
+            ]
+          }
+        ],
+        "testimonials": [
+          {
+            "client": "Michael R.",
+            "role": "Engineering Director",
+            "company": "TechCorp",
+            "text": "Dr. Chen helped me transition from senior engineer to engineering director smoothly. Her insights were invaluable.",
+            "rating": 5
+          }
+        ],
+        "tags": ["leadership", "engineering", "management", "technology"]
+      }
+    ]
+  }

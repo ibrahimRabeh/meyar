@@ -1,0 +1,89 @@
+{
+  "employeeData": {
+    "employee": {
+      "name": "Ahmed Al-Fahad",
+      "job_title": "Senior Data Analyst",
+      "department": "Business Intelligence",
+      "employee_id": "DA1023",
+      "hire_date": "2022-01-15"
+    },
+    "job_description": {
+      "purpose": "To analyze data, generate actionable insights, and support decision-making processes for the organization.",
+      "key_responsibilities": [
+        "Collect and preprocess data from various sources",
+        "Develop dashboards and reports using BI tools",
+        "Conduct statistical analyses and predictive modeling",
+        "Collaborate with cross-functional teams to identify business needs",
+        "Ensure data quality and integrity"
+      ]
+    },
+    "kpi_objectives": [
+      {
+        "objective": "Data Quality and Accuracy",
+        "metric": "Percentage of error-free data in final reports",
+        "target": "98% accuracy",
+        "weight": 25,
+        "employee_score": "88%",
+        "performance_summary": "Needs significant improvement in data validation steps."
+      },
+      {
+        "objective": "Timeliness of Deliverables",
+        "metric": "Average turnaround time for report generation",
+        "target": "3 days/report",
+        "weight": 20,
+        "employee_score": "4 days",
+        "performance_summary": "Frequently misses deadlines; requires workflow optimization."
+      },
+      {
+        "objective": "Dashboard Effectiveness",
+        "metric": "User satisfaction score from dashboard users",
+        "target": "Minimum 4.5 score",
+        "weight": 15,
+        "employee_score": "4.2",
+        "performance_summary": "Slightly below expectations; improve interactivity and usability."
+      },
+      {
+        "objective": "Project Contributions",
+        "metric": "Number of completed projects per quarter",
+        "target": "5 projects",
+        "weight": 15,
+        "employee_score": "3 projects",
+        "performance_summary": "Fell short of target; better time management needed."
+      },
+      {
+        "objective": "Collaboration",
+        "metric": "Peer evaluation score for teamwork",
+        "target": "Minimum 4.3 score",
+        "weight": 10,
+        "employee_score": "4.0",
+        "performance_summary": "Collaboration is adequate but could improve."
+      },
+      {
+        "objective": "Training and Development",
+        "metric": "Hours of professional development completed",
+        "target": "40 hours/year",
+        "weight": 10,
+        "employee_score": "20 hours",
+        "performance_summary": "Below expectations; prioritize completing training programs."
+      },
+      {
+        "objective": "Innovation",
+        "metric": "New solutions or strategies implemented annually",
+        "target": "At least 2 innovations",
+        "weight": 5,
+        "employee_score": "0",
+        "performance_summary": "No innovations implemented; encourage proactive problem-solving."
+      }
+    ],
+    "overall_performance": {
+      "score_weighted_average": "68%",
+      "performance_rating": "Needs Improvement"
+    },
+    "ai_analysis_and_recommendations": {
+        
+      }
+    }
+    }
+  
+  
+  
